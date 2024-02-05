@@ -19,3 +19,10 @@
 - 개발방법론: TDD
 - 인증: OAuth2.0, JWT
 
+## 시스템 구성도
+
+![image](https://github.com/Mindecco/Daily-Challenge-Backend/assets/123062528/3e4a61ce-9332-46c1-bb81-ef0ae3fcb5d1)
+<초기구성>
+
+
+
